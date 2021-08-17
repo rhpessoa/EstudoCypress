@@ -1,0 +1,19 @@
+{
+  "name": "estudo_cy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.2.0"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^1.6.2"
+  }
+}
